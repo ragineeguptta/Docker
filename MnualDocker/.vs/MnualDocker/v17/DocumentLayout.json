@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|c:\\ragineeproject\\docker\\mnualdocker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|c:\\ragineeproject\\docker\\mnualdocker\\mnualdocker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|solutionrelative:mnualdocker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|c:\\ragineeproject\\docker\\mnualdocker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B38402-BF00-430C-9617-9381DFDB9AC5}|MnualDocker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\RagineeProject\\Docker\\MnualDocker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -34,13 +34,12 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T18:08:35.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T18:08:35.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MnualDocker",
+              "DocumentIndex": 1,
+              "Title": "MnualDocker.csproj",
               "DocumentMoniker": "C:\\RagineeProject\\Docker\\MnualDocker\\MnualDocker.csproj",
               "RelativeDocumentMoniker": "MnualDocker.csproj",
               "ToolTip": "C:\\RagineeProject\\Docker\\MnualDocker\\MnualDocker.csproj",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\RagineeProject\\Docker\\MnualDocker\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-22T16:13:31.774Z",
               "EditorCaption": ""

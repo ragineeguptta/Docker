@@ -13,7 +13,7 @@ RUN dotnet publish "MnualDocker.csproj" -c Release -o /app/publish
 # Stage 2: Runtime (Lightweight)
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-
+ENV DOTNET_URLS=http://+:5000 
 # Copy only published output
 COPY --from=build /app/publish .
 
