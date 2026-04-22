@@ -1,12 +1,84 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Welcome Page</title>
+
+```
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+        height: 100vh;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        background: #fff;
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        text-align: center;
+        animation: fadeIn 1.5s ease-in-out;
+    }
+
+    h1 {
+        color: #333;
+        margin-bottom: 10px;
+        font-size: 2.5rem;
+    }
+
+    p {
+        color: #666;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        padding: 12px 25px;
+        border: none;
+        background: #667eea;
+        color: #fff;
+        font-size: 1rem;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .btn:hover {
+        background: #764ba2;
+        transform: scale(1.05);
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+```
+
 </head>
+
 <body>
-    <h1>Hi Raginee!</h1>
-    <p>Good work</p>
+    <div class="card">
+        <h1>Hi Raginee! 👋</h1>
+        <p>Great job! Keep up the amazing work 🚀</p>
+    </div>
 </body>
 </html>

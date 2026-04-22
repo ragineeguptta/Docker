@@ -1,0 +1,7 @@
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\MnualDocker.exe
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\MnualDocker.dll
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\MnualDocker.deps.json
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\MnualDocker.runtimeconfig.json
+C:\RagineeProject\Docker\MnualDocker\obj\Release\net8.0\PubTmp\Out\MnualDocker.pdb

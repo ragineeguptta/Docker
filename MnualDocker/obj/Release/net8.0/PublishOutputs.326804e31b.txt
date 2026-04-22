@@ -1,0 +1,7 @@
+C:\app\publish\MnualDocker.exe
+C:\app\publish\appsettings.Development.json
+C:\app\publish\appsettings.json
+C:\app\publish\MnualDocker.dll
+C:\app\publish\MnualDocker.deps.json
+C:\app\publish\MnualDocker.runtimeconfig.json
+C:\app\publish\MnualDocker.pdb
